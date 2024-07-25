@@ -1,5 +1,5 @@
 # EC2-EFS-BASIC-MOUNT
-#always update and upgrade your systems
+#always update and upgrade your systems <br>
  <sub> sudo yum upgrade </sub> #for Amazon Linux
  sudo yum update -y  # For Amazon Linux
  sudo apt-get update or sudo apt update  # For Debian-based distributions
